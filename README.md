@@ -23,7 +23,7 @@
   </a>
   
   ### 🌐 Socials:
-<a href="https://www.instagram.com/mo_el7ady">
+<a href="https://www.instagram.com/mo7amed_elhady13/">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
    <a href="https://www.youtube.com/@Elhady_Tech" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2592/PNG/512/youtube_logo_icon_154503.png" height=55  ></a>
   </a>
