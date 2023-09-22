@@ -19,7 +19,7 @@
 ### 💻 Tech Stack:
 
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=javascript,css,html,vscode,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=javascript,css,html,sass,vscode,git,github&theme=dark" />
   </a>
   
   ### 🌐 Socials:
